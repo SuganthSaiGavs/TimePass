@@ -8,3 +8,5 @@
 "Jungle's Heartbeat"
 "Time's Mirage"
 "Echoes in Silence"
+"Jailer"
+"Leo"
